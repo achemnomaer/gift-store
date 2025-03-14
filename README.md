@@ -17,8 +17,7 @@ Gift Store is a full-stack **eCommerce platform** built with **Django (backend) 
 ### **Frontend** (Next.js)
 - React + Next.js
 - Tailwind CSS for styling
-- Axios for API requests
-- Framer Motion for animations
+
 
 ### **Backend** (Django)
 - Django & Django REST Framework (DRF)
